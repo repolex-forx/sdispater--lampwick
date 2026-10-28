@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "sdispater",
+  "repo": "lampwick",
+  "versions": [
+    {
+      "commit": "af8e85390a3e0e3a6c3429d9e526d3bce10d3757",
+      "parsed_at": "2026-10-28T12:59:41.608194+00:00",
+      "filetree": "filetree/af8e85390a3e0e3a6c3429d9e526d3bce10d3757.nq.gz",
+      "blobs": [
+        "blob/d2c2a963644324cc9b046ae7ba9688cf5f61d7cb.nq.gz",
+        "blob/a4667261c40786c2bc1106618ec1f4b92c236935.nq.gz",
+        "blob/333f7411ea7c5a7d1c449b1e6c778d69fe1ce809.nq.gz",
+        "blob/7a8479f7c7741738da4915d9137bf6cd118ae55b.nq.gz",
+        "blob/3f0aed7fa14a255a93863e9a9ab9bfbf57c1aeca.nq.gz",
+        "blob/9a14d115075c823ec8eb0d9fb6353c1dac181db7.nq.gz",
+        "blob/82b875aeed6ec7b8cde5d4a3975b34a7776e69d1.nq.gz",
+        "blob/0c738421d6a41dc32ab049a68f3d3f781a67b3d2.nq.gz",
+        "blob/7cb9ea84d67ddd66e4389d21e64c61eed6d1f091.nq.gz",
+        "blob/633f866158ac742cf754a2c43edcb07e3a094f3c.nq.gz",
+        "blob/3c5fe4698a4df1aabacb7abe04f83ea1ae15a8c8.nq.gz",
+        "blob/a8888ec749499d3af81bf4cc6b618e88d4cdce7e.nq.gz",
+        "blob/4cbfa391382deb446bf477a53b24744a4e3ed2cc.nq.gz",
+        "blob/d3ad332e56d30633b64af0af6da01854f5b61f2f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
