@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sdispater/lampwick/commit/af8e85390a3e0e3a6c3429d9e526d3bce10d3757",
       "git:hexsha": "af8e85390a3e0e3a6c3429d9e526d3bce10d3757",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/lampwick/commit/ba41e6254d9c370a3fbd85a1ff1eff08e9726939",
